@@ -1,3 +1,4 @@
 My name is Allie. 
 I am taking the Software Carpentry Workshop. 
-Today is Wednesday.
+Today is Wednesday March 7.
+I had a hamburger for lunch. 
