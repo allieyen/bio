@@ -1,0 +1,3 @@
+My name is Allie. 
+I am taking the Software Carpentry Workshop. 
+Today is Wednesday.
